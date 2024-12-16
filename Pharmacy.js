@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
         localStorage.setItem("cartItems", JSON.stringify(cartItems));
 
         // Redirect to the checkout page
-        window.location.href = "checkout.html";
+        window.location.href = "Checkout.html";
     });
 
     // Save Favorites
